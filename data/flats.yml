@@ -1,0 +1,33 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: flat1.png
+  owner_picture: seb.jpeg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  number of beds: 2
+  pets allowed: false
+  lift: true
+romain:
+  owner_name: Romain Paillard
+  picture: flat2.png
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  number of beds: 1
+  pets allowed: true
+  lift: false
+allison:
+  owner_name: Allison Grekin
+  picture: flat3.png
+  owner_picture: allison.jpeg
+  name: Allison's home
+  summary: Cute little NYC flat
+  city: Manhattan, New York
+  wifi: false
+  number of beds: 1
+  pets allowed: true
+  lift: false
